@@ -16,3 +16,18 @@ Descriptive study (Microsoft Power BI) <br/>
 <p align="center">
 Corrrelation of the attributes (R programming) <br/>
 <img src="https://i.imgur.com/WpkOIkW.jpg" height="80%" width="80%"/>
+
+<br />
+<br />
+
+<h3>Method 1: Explanatory Factor Analysis (EFA)</h3>
+<p align="center">
+EFA results (R programming) <br/>
+<img src="https://i.imgur.com/AIcipqL.png" height="40%" width="40%"/>
+
+<p align="center">
+Extracted EFA Figure (R programming) <br/>
+<img src="https://i.imgur.com/DwsKc82.png" height="80%" width="80%"/>
+
+
+
