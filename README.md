@@ -32,5 +32,14 @@ Extracted EFA Figure (R programming) <br/>
 
 <h3>Method 2: PLS-PM model</h3>
 The latent constructs derived from the EFA are subsequently employed to construct a Partial Least Squares Path Model (PLS-PM) to investigate their influence on tourists' "COVID-19 precautions trust " and "Overall Satisfaction". PLS-PM is a widely recognized and highly regarded multivariate technique that distinguishes itself from other modelling approaches by assessing direct and indirect effects within assumed causal relationships.
+<br />
+<br />
+<p align="center">
+PLS-PM  Measurement Model (R programming)<br/>
+<img src="https://i.imgur.com/fTIc8Rr.png" height="60%" width="60%"/>
 
-
+<br />
+<br />
+<p align="center">
+PLS-PM  Structural Model result (R programming)<br/>
+<img src="https://i.imgur.com/Mm91u3p.jpg" height="30%" width="80%"/>
