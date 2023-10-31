@@ -5,18 +5,14 @@ This project aims to disentangle the impact of pandemic precaution trust and pre
 <br />
 <p align="center">
 Conceptual framework for the project <br/>
-<img src="(https://i.imgur.com/HMzieaP.png)" height="80%" width="80%"/>
+<img src="https://i.imgur.com/HMzieaP.png" height="40%" width="40%"/>
 <br />
 <br />
 <p align="center">
-Descriptive study (Microsoft Pwoer BI) <br/>
-<img src="https://i.imgur.com/DldejZi.png)" height="80%" width="80%"/>
+Descriptive study (Microsoft Power BI) <br/>
+<img src="https://i.imgur.com/DldejZi.png" height="80%" width="80%"/>
 <br />
 <br />
-
-
-
-  
 <p align="center">
 Corrrelation of the attributes (R programming) <br/>
 <img src="https://i.imgur.com/WpkOIkW.jpg" height="80%" width="80%"/>
