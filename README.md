@@ -4,6 +4,7 @@
 
 - <b>R Programming</b> 
 - <b>Microsoft Power BI</b>
+- <b>Ad-hoc surveys</b>
 
 <h2>Description of the project</h2>
 This project aims to disentangle the impact of Covid-19 pandemic precaution trust and prevention measures on tourist satisfaction, with a specific focus on the unique challenges faced by small businesses. To achieve this, we conducted interviews (Ad-hoc surveys; n=225) with tourists in a north Mediterranean coastal destination of Spain during the challenging summer of 2020, marked by the pandemic's worst effects. To execute this research, a two-tiered methodology was employed, combining Explanatory Factor Analysis (EFA) with partial least squares-path modeling (PLS-PM).
