@@ -62,4 +62,7 @@ PLS-PM  Structural Model result (R programming)<br/>
 -	Tourist actions deemed intrusive, like navigating through crowds or sharing confined indoor spaces, were found to impact tourist satisfaction adversely.
 <br />
 Small and medium-sized enterprises (SMEs) faced considerable challenges in reassuring customers regarding their adherence to health and safety protocols while preserving a positive tourist experience. The knowledge gained from navigating the complexities of the pandemic can offer valuable insights to assist SMEs in crafting resilience strategies for future challenges, especially in the context of climate change. These findings underscore the intricate interplay of factors that influence tourist satisfaction during disruptive events. They highlight the paramount importance of trust-building, vulnerability mitigation, and adaptability to novel circumstances in ensuring the long-term sustainability of the tourism industry.
-
+<br />
+<br />
+<h3>Publication</h3>
+<img src="https://i.imgur.com/qtABeKU.jpg">
